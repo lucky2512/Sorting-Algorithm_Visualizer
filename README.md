@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/akoraishi2000/Sorting-Visualizer.git
+   git clone https://github.com/lucky2512/Sorting-Algorithm_Visualizer.git
    ```
 2. Open NetBeans IDE.
 3. Select `File -> Open Project` and navigate to the cloned repository.
