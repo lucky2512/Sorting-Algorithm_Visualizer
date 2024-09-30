@@ -61,4 +61,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/akoraishi2000/Sorting-Visualizer](https://github.com/akoraishi2000/Sorting-Visualizer)
+Project Link: [https://github.com/lucky2512/Sorting-Algorithm_Visualizer.git](https://github.com/lucky2512/Sorting-Algorithm_Visualizer.git)
